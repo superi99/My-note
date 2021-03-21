@@ -2,6 +2,9 @@ cài đặt:
 sudo apt update
 sudo apt install postgresql postgresql-contrib
 
+tao user (phai tao superuser de co quyen):
+CREATE ROLE rolename LOGIN SUPERUSER PASSWORD 'passwordstring';
+
 truy cập:
 sudo -i -u postgres
 psql
