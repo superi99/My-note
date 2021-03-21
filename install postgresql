@@ -1,0 +1,10 @@
+cài đặt:
+sudo apt update
+sudo apt install postgresql postgresql-contrib
+
+truy cập:
+sudo -i -u postgres
+psql
+
+xem list database:
+\l
