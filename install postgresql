@@ -1,6 +1,5 @@
 cài đặt:
-sudo apt update
-sudo apt install postgresql postgresql-contrib
+https://computingforgeeks.com/how-to-install-postgresql-13-on-ubuntu/
 
 tao user (phai tao superuser de co quyen):
 CREATE ROLE rolename LOGIN SUPERUSER PASSWORD 'passwordstring';
