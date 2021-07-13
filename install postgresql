@@ -10,3 +10,5 @@ psql
 
 xem list database:
 \l
+
+remote access: https://blog.logrocket.com/setting-up-a-remote-postgres-database-server-on-ubuntu-18-04/
